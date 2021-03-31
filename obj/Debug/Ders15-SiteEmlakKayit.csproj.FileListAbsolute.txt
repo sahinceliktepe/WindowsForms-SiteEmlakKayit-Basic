@@ -1,0 +1,11 @@
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\bin\Debug\Ders15-SiteEmlakKayit.exe.config
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\bin\Debug\Ders15-SiteEmlakKayit.exe
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\bin\Debug\Ders15-SiteEmlakKayit.pdb
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15-SiteEmlakKayit.csprojAssemblyReference.cache
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15_SiteEmlakKayit.Form1.resources
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15_SiteEmlakKayit.Properties.Resources.resources
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15-SiteEmlakKayit.csproj.GenerateResource.cache
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15-SiteEmlakKayit.csproj.CoreCompileInputs.cache
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15-SiteEmlakKayit.exe
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15-SiteEmlakKayit.pdb
+D:\MuratYucedag\CSharpDersleri1\Ders15-SiteEmlakKayit\obj\Debug\Ders15_SiteEmlakKayit.Form2.resources
